@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648636908596",
+    "firebase_url": "https://flaschat-c2a82.firebaseio.com",
+    "project_id": "flaschat-c2a82",
+    "storage_bucket": "flaschat-c2a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648636908596:android:8658bb73beb41451acf661",
+        "android_client_info": {
+          "package_name": "com.otwomaevelyne.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648636908596-hduoclh9c15v8cr4cs2e5ivdit8irhru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-TcQgCBt7fujBeKc-jCFwY4B2veg4aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648636908596-hduoclh9c15v8cr4cs2e5ivdit8irhru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
